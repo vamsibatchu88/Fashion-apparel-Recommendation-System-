@@ -1,7 +1,7 @@
 # Fashion-apparel-Recommendation-System
-Recommending fashion apparels - Text and Images - Content based Recommender System
+**Recommending fashion apparels - Text and Images - Content based Recommender System**
 
-**[Case Study - Plan]**
+**Case Study - Plan**
 1) Data Acquisition
 2) Data Cleaning
 3) Text Preprocessing - NLP Techniques 
